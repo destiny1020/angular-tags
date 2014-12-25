@@ -15,3 +15,4 @@ npm-debug.log
 .idea
 test/lib
 dist/generated
+bower_components/
